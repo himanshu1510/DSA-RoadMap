@@ -1,6 +1,6 @@
 # DSA-RoadMap
 <p align="center">
-<img alt="AndroidInterviewQuestions" src="https://user-images.githubusercontent.com/64575592/100383106-d5ed3700-3042-11eb-9a1e-69eadf2917a0.jpg">
+<img alt="AndroidInterviewQuestions" src="https://user-images.githubusercontent.com/64575592/100383106-d5ed3700-3042-11eb-9a1e-69eadf2917a0.jpg" height="600">
 </p>
 
 ## Prepared and maintained by [CODECHEF MBM Chapter].
@@ -10,7 +10,7 @@
 * **Complexity Analysis** - [Learn from here](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn)
 * **Linked Lists** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bli-yIH6lD353r9zHxvazr1)
 * **Stacks** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5BngntkqmL5IlEdCmHF_b1d9)
-* **Queue** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bl7JvqoC2EIkRIwAbBbIVK9DSA)
+* **Queue** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bl7JvqoC2EIkRIwAbBbIVK9)
 * **Tree** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bl-sM8FH3-TIqjlzdCAQfZ_)
 * **Heap** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bkb8o8vGwvgTaZH_os2TERP)
 ### Graphs
