@@ -35,8 +35,8 @@
 * *Remove a particular node from a doubly linked list (first, last and middle)* - [Learn from here]()
 * *Create, push and pop in stack  (array representation & linked list representation)* - [Learn from here]()
 
-### **Stacks* - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5BngntkqmL5IlEdCmHF_b1d9)
-### **Queue* - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bl7JvqoC2EIkRIwAbBbIVK9)
+### **Stacks** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5BngntkqmL5IlEdCmHF_b1d9)
+### **Queue** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bl7JvqoC2EIkRIwAbBbIVK9)
 
 * *Create Queue (array representation & linked list representation) , Insert into queue, delete from queue* - [Learn from here](https://www.geeksforgeeks.org/split-a-list-into-two-halves-in-java/)
 * *print a queue (array representation & linked list representation)* - [Learn from here](https://www.geeksforgeeks.org/union-and-intersection-of-two-linked-lists/)
