@@ -10,10 +10,10 @@
 ### * **Complexity Analysis** - [Learn from here](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn)
 ### * **Linked Lists** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bli-yIH6lD353r9zHxvazr1)
 
-* *Print the linked list* - [Learn from here]()
-* *Count the number of nodes in the linked list (Iterative & Recursive)** - [Learn from here]()
-* *To determine if a particular item exists in the list (Iterative & Recursive)** - [Learn from here]()
-* *To count the number of times as item occurs in the list (Iterative & Recursive)** - [Learn from here]()
+* *Print the linked list* -  [Learn from here]()
+* *Count the number of nodes in the linked list (Iterative & Recursive)** -  [Learn from here]()
+* *To determine if a particular item exists in the list (Iterative & Recursive)** -  [Learn from here]()
+* *To count the number of times as item occurs in the list (Iterative & Recursive)** -  [Learn from here]()
 * *To determine the average of the items in the list** - [Learn from here]()
 * *To print all the items smaller than the average of the items in the list** - [Learn from here]()
 * *To determine the smallest item in the list (Iterative & Recursive)** - [Learn from here]()
@@ -64,6 +64,7 @@
 ### * **Heap** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bkb8o8vGwvgTaZH_os2TERP)
 
 ### Graphs
+
 * **Graph** - [Learn from here]( https://www.youtube.com/playlist?list=PLCvBE7NDS5BliMnhCKQbDsOmP78QtNEfZ)
 * **Graph Terminology** - [Learn from here]()
 * **Traversal : BFS & DFS** - [Learn from here]()
@@ -71,7 +72,9 @@
 * **Directed : Cycle Detection, Strongly Connected Components (Kosaraju’s Algo)** - [Learn from here]()
 * **Minimum Spanning Trees (Kruskals & Prims)** - [Learn from here]()
 * **Shortest Path (BFS, Dijkstras, Bellman Ford, Floyd-Warshalls)** - [Learn from here]()
+
 ### Algorithms
+
 * **Sorting : bubble,selection,insertion,merge,quick,heap sort** - [Learn from here]()
 * **Searching : Linear,Binary** - [Learn from here]()
 * **Greedy** - [Learn from here]()
