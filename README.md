@@ -5,10 +5,10 @@
 
 ## Prepared and maintained by [CODECHEF MBM Chapter].
 ## Contents
-* **Pointers Revision** - [Learn from here](https://www.youtube.com/playlist?list=PLhb7SOmGNUc4EBVjd7x5TiEyOKXt71whE)
-* **Array** - [Learn from here ](https://www.geeksforgeeks.org/array-data-structure/ )
-* **Complexity Analysis** - [Learn from here](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn)
-* **Linked Lists** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bli-yIH6lD353r9zHxvazr1)
+### * **Pointers Revision** - [Learn from here](https://www.youtube.com/playlist?list=PLhb7SOmGNUc4EBVjd7x5TiEyOKXt71whE)
+### * **Array** - [Learn from here ](https://www.geeksforgeeks.org/array-data-structure/ )
+### * **Complexity Analysis** - [Learn from here](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn)
+### * **Linked Lists** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bli-yIH6lD353r9zHxvazr1)
 
 * *Print the linked list* - [Learn from here]()
 * *Count the number of nodes in the linked list (Iterative & Recursive)** - [Learn from here]()
@@ -35,15 +35,15 @@
 * *Remove a particular node from a doubly linked list (first, last and middle)** - [Learn from here]()
 * *Create, push and pop in stack  (array representation & linked list representation)** - [Learn from here]()
 
-* **Stacks** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5BngntkqmL5IlEdCmHF_b1d9)
-* **Queue** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bl7JvqoC2EIkRIwAbBbIVK9)
+### * **Stacks** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5BngntkqmL5IlEdCmHF_b1d9)
+### * **Queue** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bl7JvqoC2EIkRIwAbBbIVK9)
 
 * *Create Queue (array representation & linked list representation) , Insert into queue, delete from queue** - [Learn from here]()
 * *print a queue (array representation & linked list representation)** - [Learn from here]()
 * *Create Circular Queue (array representation & linked list representation) , Insert into queue, delete from queue** - [Learn from here]()
 * *print a circular queue (array representation & linked list representation)** - [Learn from here]()
 
-* **Tree** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bl-sM8FH3-TIqjlzdCAQfZ_)
+### * **Tree** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bl-sM8FH3-TIqjlzdCAQfZ_)
 * *Create a BST** - [Learn from here]()
 * *Insert into BST (Iterative & Recursive)** - [Learn from here]()
 * *Tree traversal (preOrder, inOrder,postOrder) (Recursive)** - [Learn from here]()
@@ -60,8 +60,8 @@
 * *Non recursive traversal of BST (using stack)(preOrder, inOrder, postOrder)** - [Learn from here]()
 * *Threaded Binary Tree (TBT) {create, insert,traversal : {preOrder,inOrder,postOrder})}** - [Learn from here]()
 
-* **AVL TREE** - [Learn from here]()
-* **Heap** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bkb8o8vGwvgTaZH_os2TERP)
+### * **AVL TREE** - [Learn from here]()
+### * **Heap** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bkb8o8vGwvgTaZH_os2TERP)
 
 ### Graphs
 * **Graph** - [Learn from here]( https://www.youtube.com/playlist?list=PLCvBE7NDS5BliMnhCKQbDsOmP78QtNEfZ)
