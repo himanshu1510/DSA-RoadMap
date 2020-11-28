@@ -1,6 +1,6 @@
 # DSA-RoadMap
 <p align="center">
-<img alt="AndroidInterviewQuestions" src="https://user-images.githubusercontent.com/64575592/100383106-d5ed3700-3042-11eb-9a1e-69eadf2917a0.jpg" height="600">
+<img alt="CodeChef MBM" src="images/codechef-mbm.png" height="600">
 </p>
 
 ## Prepared and maintained by [CODECHEF MBM Chapter].
