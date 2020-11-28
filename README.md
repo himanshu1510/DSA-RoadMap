@@ -1,6 +1,6 @@
 # DSA-RoadMap
 <p align="center">
-<img alt="CodeChef MBM" src="https://github.com/amitsharma101/DSA-RoadMap/blob/main/images/codechef-mbm.png" height="600">
+<img alt="CodeChef MBM" src="images/codechef-mbm.png" height="600">
 </p>
 
 ## Prepared and maintained by [CODECHEF MBM Chapter].
