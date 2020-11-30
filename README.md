@@ -12,7 +12,7 @@
 ### **Linked Lists** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bli-yIH6lD353r9zHxvazr1)
 
 * *Print the linked list* - [Solve here](https://practice.geeksforgeeks.org/problems/print-linked-list-elements/1/?category[]=Linked%20List&page=2&query=category[]Linked%20Listpage2) | [Learn from here](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
-* *Count the number of nodes in the linked list (Iterative & Recursive)* -  [Solve here](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) [Solution here](https://www.geeksforgeeks.org/find-length-of-a-linked-list-iterative-and-recursive/) 
+* *Count the number of nodes in the linked list (Iterative & Recursive)* -  [Solve here](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | [Solution here](https://www.geeksforgeeks.org/find-length-of-a-linked-list-iterative-and-recursive/) 
 * *To determine if a particular item exists in the list (Iterative & Recursive)* -  [Learn from here](https://www.geeksforgeeks.org/search-an-element-in-a-linked-list-iterative-and-recursive/)
 * *To count the number of times as item occurs in the list (Iterative & Recursive)* -  [Practice here](https://practice.geeksforgeeks.org/problems/occurence-of-an-integer-in-a-linked-list/1) [Solution here](https://www.geeksforgeeks.org/write-a-function-that-counts-the-number-of-times-a-given-int-occurs-in-a-linked-list/)
 * *To determine the average of the items in the list* - [Learn from here](https://www.geeksforgeeks.org/program-to-find-average-of-all-nodes-in-a-linked-list/#:~:text=Start%20traversing%20the%20linked%20list,node%20and%20Return%20the%20average.)
@@ -23,7 +23,7 @@
 * *To append  a node into the list (After and Before- 1st Node/Last Node/Middle Node) (Iterative & Recursive)* - [Solve here](https://practice.geeksforgeeks.org/problems/linked-list-insertion/1) | [Learn from here](https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/)
 * *To remove a node from the list (position based) (1st Node/Last Node/Middle Node) (Iterative & Recursive)* - [Solve here](https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1) | [Learn from here](https://www.geeksforgeeks.org/linked-list-set-3-deleting-node/)
 * *Remove all nodes from the list* - [Learn from here](https://www.geeksforgeeks.org/write-a-function-to-delete-a-linked-list/)
-* *Remove all the occurrences of a particular item from the list* - [Learn from here](https://www.geeksforgeeks.org/remove-all-the-occurrences-of-an-element-from-a-list-in-python/)
+* *Remove all the occurrences of a particular item from the list* -[solve here](https://leetcode.com/problems/remove-linked-list-elements/) | [Learn from here](https://www.geeksforgeeks.org/remove-all-the-occurrences-of-an-element-from-a-list-in-python/)
 * *Create a sorted linked list* - [Solve here](https://practice.geeksforgeeks.org/problems/insert-in-a-sorted-list/1) | [Learn from here](https://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/)
 * *split the list into k parts* - [Solve here](https://leetcode.com/problems/split-linked-list-in-parts/) | [Learn from here](https://massivealgorithms.blogspot.com/2018/04/leetcode-725-split-linked-list-in-parts.html)
 * *Union and Intersection of two lists* - [Solve here](https://practice.geeksforgeeks.org/problems/intersection-of-two-linked-list/1) | [Learn from here](https://www.geeksforgeeks.org/union-and-intersection-of-two-linked-lists/)
