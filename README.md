@@ -47,10 +47,10 @@
 
 ### **Queue** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bl7JvqoC2EIkRIwAbBbIVK9)
 
-* *Create Queue (array representation & linked list representation) , Insert into queue, delete from queue* - [Solve here](https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) | [Learn from here](https://www.geeksforgeeks.org/queue-linked-list-implementation/)
-* *print a queue (array representation & linked list representation)* - [Solve here]() | [Learn from here](https://www.geeksforgeeks.org/queue-linked-list-implementation/)
-* *Create Circular Queue (array representation & linked list representation) , Insert into queue, delete from queue* - [Solve here]() | [Learn from here](https://www.geeksforgeeks.org/circular-singly-linked-list-insertion/#:~:text=To%20implement%20a%20circular%20singly,point%20to%20the%20first%20node.)
-* *Print a Circular Queue (array representation & linked list representation)* - [Solve here]() | [Learn from here](https://www.geeksforgeeks.org/circular-linked-list-set-2-traversal/)
+* *Create a Queue (Array Representation) , Insert into queue, Delete from queue, Traverse the Queue* - [Learn from here](https://www.geeksforgeeks.org/array-implementation-of-queue-simple/)
+* *Create a Queue (Linked List Representation) , Insert into queue, delete from queue, Traverse the Queue* - [Solve here](https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) | [Learn from here](https://www.geeksforgeeks.org/queue-linked-list-implementation/)
+* *Create a Circular Queue (Array Representation) , Insert into queue, delete from queue, Traverse the Queue* - [Learn from here](https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/)
+* *Create a Circular Queue (Linked List representation) , Insert into queue, delete from queue, Traverse the Queue* - [Learn from here](https://www.geeksforgeeks.org/circular-queue-set-2-circular-linked-list-implementation/)
 
 ### **Tree** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bl-sM8FH3-TIqjlzdCAQfZ_)
 
@@ -68,6 +68,11 @@
 * *Determine the sibling of an item in a BST* - [Learn from here](https://www.geeksforgeeks.org/print-cousins-of-a-given-node-in-binary-tree/)
 * *Non recursive traversal of BST (using stack)(preOrder, inOrder, postOrder)* - [Learn here](https://www.hackerearth.com/practice/notes/iterative-tree-traversals/)
 * *Threaded Binary Tree (TBT) {create, insert,traversal : {preOrder,inOrder,postOrder})}* - [Learn from here](https://www.geeksforgeeks.org/threaded-binary-tree/)
+
+### **AVL Tree**
+
+* *Implement an AVL Tree* - [Solve here](https://practice.geeksforgeeks.org/problems/avl-tree-insertion/1) | [Learn from here](https://www.geeksforgeeks.org/avl-tree-set-1-insertion/)
+
 
 ### **Heap** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bkb8o8vGwvgTaZH_os2TERP)
 
