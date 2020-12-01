@@ -118,21 +118,25 @@
     -  Cube change - [Solve here](https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/practice-problems/algorithm/cube-change-qualifier2/)
     -  Chandu and chandni's secret chat - [Solve here](https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/practice-problems/algorithm/chandu-and-chandnis-secret-chat/)
 * **Searching :** 
+* **String Matching**
+  -  Naive Approach - [Learn from here](https://www.geeksforgeeks.org/naive-algorithm-for-pattern-searching/)
+  -  Rabin Karp Approach - [Learn from here](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
+
   -	**Linear Search** - [Learn from here](https://www.youtube.com/watch?v=C46QfTjVCNU)
  	- Simple search - [Solve here](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/simple-search-4/)
  	- Repeated K times - [Solve here](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/repeated-k-times/)
   - **Binary Search** - [Learn from here](https://www.youtube.com/watch?v=j5uXyPJ0Pew)
   	- Discover the monk - [Solve here](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/discover-the-monk/)
   	- Bugs - [Solve here](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/victory-over-power-4a0cb459/) 
+
 * **Greedy Algorithms** - [Learn from here](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
   - Activity Selection Problem - [Solve here](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) | [Learn from here](https://www.youtube.com/watch?v=poWB2UCuozA)
-  - Greedy Coloring of Graph - [Solve here](https://leetcode.com/problems/possible-bipartition/) | [Learn from here](https://www.youtube.com/watch?v=052VkKhIaQ4)
+  - Fractional Knapsack Problem - [Solve here](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | [Learn from here](https://www.geeksforgeeks.org/fractional-knapsack-problem/)
   - Job Sequencing with Deadlines - [Solve here](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) | [Learn from here](https://www.youtube.com/watch?v=zPtI8q9gvX8)
-  - Huffman Coding - [Solve here](https://practice.geeksforgeeks.org/problems/huffman-encoding/0) | [Learn from here](https://www.youtube.com/watch?v=co4_ahEDCho)
-  - Dijkstra's Algorithm - [Solve here](https://www.hackerrank.com/challenges/dijkstrashortreach/problem) | [Learn from here](https://www.youtube.com/watch?v=XB4MIexjvY0)
-  - Kruskal's Algorithm - [Solve here](https://www.hackerrank.com/challenges/kruskalmstrsub/problem) | [Learn from here](https://www.youtube.com/watch?v=4ZlRH0eK-qQ)
+  <!-- - Huffman Coding - [Solve here](https://practice.geeksforgeeks.org/problems/huffman-encoding/0) | [Learn from here](https://www.youtube.com/watch?v=co4_ahEDCho) -->
+
 * **Divide & Conquer** - [Learn from here](https://www.youtube.com/watch?v=2Rr2tW9zvRg)
-  - ***Master theorem*** -  [Learn from here](https://www.youtube.com/watch?v=OynWkEj0S-s)
+  <!-- - Master theorem -  [Learn from here](https://www.youtube.com/watch?v=OynWkEj0S-s) -->
   - Majority Element problem - [Solve here](https://leetcode.com/problems/majority-element/) | [Learn from here](https://www.youtube.com/watch?v=bg6r_fgtpMQ)
   - Kth largest element in an array -[Solve here](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Learn from here](https://www.youtube.com/watch?v=aXJ-p3Qa4TY)
   - Unique divide and conquer - [Solve here](https://www.hackerrank.com/challenges/unique-divide-and-conquer/problem) | [Learn from here](https://www.hackerrank.com/challenges/unique-divide-and-conquer/editorial)
@@ -142,12 +146,8 @@
   - Minimum Path Sum Triangle (Matrix dp) - [Solve here](https://leetcode.com/problems/triangle/) | [Learn from here]()
   - 0-1 Knapsack (Knapsack Problem) - [Solve here](https://www.hackerrank.com/contests/srin-aadc03/challenges/classic-01-knapsack) | [Learn from here](https://www.youtube.com/watch?v=nLmhmB6NzcM)
   - Best time to buy and sell stock (Adhoc) - [Solve here](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Learn from here](https://www.youtube.com/watch?v=K8iHi8AW1ls)
-  - Word break (Dp backtrack) - [Solve here](https://leetcode.com/problems/word-break-ii/) | [Learn from here](https://www.youtube.com/watch?v=9-grHHGUVls)
-  - Binary tree maximum path sum (Tree dp) - [Solve here](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Learn from here](https://www.youtube.com/watch?v=TO5zsKtc1Ic)
+  - Word break (Dp backtrack) - [Solve here](https://leetcode.com/problems/word-break-ii/) | [Learn from here](https://www.youtube.com/watch?v=9-grHHGUVls)<!-- - Binary tree maximum path sum (Tree dp) - [Solve here](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Learn from here](https://www.youtube.com/watch?v=TO5zsKtc1Ic) -->
   - Unique binary search trees (Multiply dp) - [Solve here](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Learn from here](https://www.youtube.com/watch?v=hQn61BjdA7M)
   - Word-break (Breaking words) - [Solve here](https://leetcode.com/problems/word-break/) | [Learn from here](https://www.youtube.com/watch?v=yr77dVf1RQA) 
   - Best time to buy and sell stock (Suffix and prefix dp) - [Solve here](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Learn from here](https://www.youtube.com/watch?v=mj7N8pLCJ6w)
   
-* **Amortized analysis** - [Learn from here](http://www.cs.cornell.edu/courses/cs3110/2011sp/Lectures/lec20-amortized/amortized.htm) | [More resources](https://www.geeksforgeeks.org/analysis-algorithm-set-5-amortized-analysis-introduction/)
-  - Counting bits - [Solve here](https://leetcode.com/problems/counting-bits/) | [Learn from here](https://www.youtube.com/watch?v=awxaRgUB4Kw)
-  - Range Module - [Solve here](https://leetcode.com/problems/range-module/) | [Learn from here](https://leetcode.com/problems/range-module/solution/)
