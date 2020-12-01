@@ -48,7 +48,7 @@
 ### **Queue** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bl7JvqoC2EIkRIwAbBbIVK9)
 
 * *Create Queue (array representation & linked list representation) , Insert into queue, delete from queue* - [Solve here](https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) | [Learn from here](https://www.geeksforgeeks.org/queue-linked-list-implementation/)
-* *print a queue (array representation & linked list representation)* - [Solve here]() | [Learn from here](https://www.geeksforgeeks.org/union-and-intersection-of-two-linked-lists/)
+* *print a queue (array representation & linked list representation)* - [Solve here]() | [Learn from here](https://www.geeksforgeeks.org/queue-linked-list-implementation/)
 * *Create Circular Queue (array representation & linked list representation) , Insert into queue, delete from queue* - [Solve here]() | [Learn from here](https://www.geeksforgeeks.org/circular-singly-linked-list-insertion/#:~:text=To%20implement%20a%20circular%20singly,point%20to%20the%20first%20node.)
 * *Print a Circular Queue (array representation & linked list representation)* - [Solve here]() | [Learn from here](https://www.geeksforgeeks.org/circular-linked-list-set-2-traversal/)
 
@@ -69,7 +69,10 @@
 * *Non recursive traversal of BST (using stack)(preOrder, inOrder, postOrder)* - [Learn from here](https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion/)
 * *Threaded Binary Tree (TBT) {create, insert,traversal : {preOrder,inOrder,postOrder})}* - [Learn from here](https://www.geeksforgeeks.org/threaded-binary-tree/)
 
-### **AVL TREE** - [Learn from here]()
+### **AVL TREE** - [Learn from here](https://www.youtube.com/watch?v=jDM6_TnYIqE)
+
+* *Implement an AVL Tree* - [Solve here](https://practice.geeksforgeeks.org/problems/avl-tree-insertion/1) | [Learn from here](https://www.geeksforgeeks.org/avl-tree-set-1-insertion/)
+
 ### **Heap** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bkb8o8vGwvgTaZH_os2TERP)
 
 ### Graphs
