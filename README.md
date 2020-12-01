@@ -51,8 +51,8 @@
 
 ### **Tree** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bl-sM8FH3-TIqjlzdCAQfZ_)
 
-* *Create a Binary Search Tree* - [Learn here](https://www.geeksforgeeks.org/construct-a-binary-in-level-order-using-recursion/)
-* *Insert into BST (Iterative & Recursive)* - [Solve Here](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem) | [Learn here - Iterative](https://www.geeksforgeeks.org/insert-a-node-in-binary-search-tree-iteratively/) , 
+* *Create a Binary Search Tree -  Node Insertion using recursion* - [Learn here](https://www.geeksforgeeks.org/construct-a-binary-in-level-order-using-recursion/)
+* *Insert into BST (Iterative)* - [Solve Here](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem) | [Learn here](https://www.geeksforgeeks.org/insert-a-node-in-binary-search-tree-iteratively/)
 * *Tree traversal (preOrder, inOrder,postOrder) (Recursive)* - [Pratice preOrder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) | [Pratice inOrder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) | [Pratice postOrder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) | [Learn here](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
 * *Count the number of nodes in a BST* - [Practice here](https://leetcode.com/problems/count-complete-tree-nodes/) | [Learn here](https://algorithms.tutorialhorizon.com/count-the-number-of-nodes-in-a-given-binary-tree/)
 * *Count the number of leaves in a BST* - [Practice here](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) | [Learn here](https://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/)
