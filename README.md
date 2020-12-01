@@ -66,7 +66,7 @@
 * *Non recursive traversal of BST (using stack)(preOrder, inOrder, postOrder)* - [Learn here](https://www.hackerearth.com/practice/notes/iterative-tree-traversals/)
 * *Threaded Binary Tree (TBT) {create, insert,traversal : {preOrder,inOrder,postOrder})}* - [Learn from here](https://www.geeksforgeeks.org/threaded-binary-tree/)
 
-### **AVL TREE** - [Learn from here]()
+### **AVL TREE** - [Learn from here](https://www.youtube.com/watch?v=jDM6_TnYIqE)
 ### **Heap** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bkb8o8vGwvgTaZH_os2TERP)
 
 ### Graphs
