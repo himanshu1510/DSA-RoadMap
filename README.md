@@ -3,38 +3,48 @@
 <img alt="CodeChef MBM" src="images/codechef-mbm.png" height="600">
 </p>
 
-## Prepared and maintained by [CODECHEF MBM Chapter].
-## Contents
-### **Pointers Revision** - [Learn from here](https://www.youtube.com/playlist?list=PLhb7SOmGNUc4EBVjd7x5TiEyOKXt71whE)
-### **Array** - [Learn from here ](https://www.geeksforgeeks.org/array-data-structure/ )
-### **Complexity Analysis** - [Learn from here](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn)
+# Contents
+## **Pointers Revision** - [Learn from here](https://www.youtube.com/playlist?list=PLhb7SOmGNUc4EBVjd7x5TiEyOKXt71whE)
+## **Array** - [Learn from here ](https://www.geeksforgeeks.org/array-data-structure/ )
+## **Complexity Analysis** - [Learn from here](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn)
 [Practice problems for warm up and complexity analysis](https://www.codechef.com/LRNDSA01)
-### **Linked Lists** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bli-yIH6lD353r9zHxvazr1)
+## **Linked List**
+### Singly Linked List : [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bli-yIH6lD353r9zHxvazr1)
 
-* *Print the linked list* - [Solve here](https://practice.geeksforgeeks.org/problems/print-linked-list-elements/1/?category[]=Linked%20List&page=2&query=category[]Linked%20Listpage2) | [Learn from here](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
+#### Problems : 
+
+* *Print the linked list* -  [Solve here](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Learn here](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/editorial)  
 * *Count the number of nodes in the linked list (Iterative & Recursive)* -  [Solve here](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | [Solution here](https://www.geeksforgeeks.org/find-length-of-a-linked-list-iterative-and-recursive/) 
 * *To determine if a particular item exists in the list (Iterative & Recursive)* -  [Learn from here](https://www.geeksforgeeks.org/search-an-element-in-a-linked-list-iterative-and-recursive/)
-* *To count the number of times as item occurs in the list (Iterative & Recursive)* -  [Practice here](https://practice.geeksforgeeks.org/problems/occurence-of-an-integer-in-a-linked-list/1) [Solution here](https://www.geeksforgeeks.org/write-a-function-that-counts-the-number-of-times-a-given-int-occurs-in-a-linked-list/)
+* *To count the number of times as item occurs in the list (Iterative & Recursive)* -  [Practice here](https://practice.geeksforgeeks.org/problems/occurence-of-an-integer-in-a-linked-list/1) | [Solution here](https://www.geeksforgeeks.org/write-a-function-that-counts-the-number-of-times-a-given-int-occurs-in-a-linked-list/)
 * *To determine the average of the items in the list* - [Learn from here](https://www.geeksforgeeks.org/program-to-find-average-of-all-nodes-in-a-linked-list/#:~:text=Start%20traversing%20the%20linked%20list,node%20and%20Return%20the%20average.)
 * *To print all the items smaller than the average of the items in the list* - [Learn from here](https://www.geeksforgeeks.org/find-the-element-before-which-all-the-elements-are-smaller-than-it-and-after-which-all-are-greater-than-it/)
 * *To determine the smallest item in the list (Iterative & Recursive)* - [Learn from here](geeksforgeeks.org/find-smallest-largest-elements-singly-linked-list/)
 * *To print the reverse of the list (Iterative & Recursive)* -  [Solve here](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1) | [Learn here](https://www.geeksforgeeks.org/reverse-a-linked-list/)
 * *Recursive code to reverse the linked list* - [Learn from here](https://www.geeksforgeeks.org/recursively-reversing-a-linked-list-a-simple-implementation/)
 * *To append  a node into the list (After and Before- 1st Node/Last Node/Middle Node) (Iterative & Recursive)* - [Solve here](https://practice.geeksforgeeks.org/problems/linked-list-insertion/1) | [Learn from here](https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/)
-* *To remove a node from the list (position based) (1st Node/Last Node/Middle Node) (Iterative & Recursive)* - [Solve here](https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1) | [Learn from here](https://www.geeksforgeeks.org/linked-list-set-3-deleting-node/)
+* *To remove a node from the list (position based) (1st Node/Last Node/Middle Node) (Iterative & Recursive)* - [Solve here](https://practice.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1) | [Learn here](https://www.geeksforgeeks.org/linked-list-set-3-deleting-node/)
 * *Remove all nodes from the list* - [Learn from here](https://www.geeksforgeeks.org/write-a-function-to-delete-a-linked-list/)
-* *Remove all the occurrences of a particular item from the list* -[solve here](https://leetcode.com/problems/remove-linked-list-elements/) | [Learn from here](https://www.geeksforgeeks.org/remove-all-the-occurrences-of-an-element-from-a-list-in-python/)
-* *Create a sorted linked list* - [Solve here](https://practice.geeksforgeeks.org/problems/insert-in-a-sorted-list/1) | [Learn from here](https://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/)
-* *split the list into k parts* - [Solve here](https://leetcode.com/problems/split-linked-list-in-parts/) | [Learn from here](https://massivealgorithms.blogspot.com/2018/04/leetcode-725-split-linked-list-in-parts.html)
-* *Union and Intersection of two lists* - [Solve here](https://practice.geeksforgeeks.org/problems/intersection-of-two-linked-list/1) | [Learn from here](https://www.geeksforgeeks.org/union-and-intersection-of-two-linked-lists/)
-* *Append node in circular linked list* - [Solve here](https://practice.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1/?category[]=Linked%20List&page=2&query=category[]Linked%20Listpage2) | [Learn from here](https://www.geeksforgeeks.org/circular-singly-linked-list-insertion/#:~:text=To%20implement%20a%20circular%20singly,point%20to%20the%20first%20node.)
-* *Print a circular linked list* - [Learn from here](https://www.geeksforgeeks.org/circular-linked-list-set-2-traversal/)
-* *Determine if a particular item exists in the circular linked list* - [Learn from here](https://www.geeksforgeeks.org/check-if-a-pair-with-given-product-exists-in-linked-list/)
-* *Print the doubly linked list* - [Learn from here](https://www.geeksforgeeks.org/doubly-linked-list/)
-* *Insert node after a particular node in a doubly linked list (First, last and middle)* -[Solve here](https://practice.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1/?category[]=Linked%20List&page=2&query=category[]Linked%20Listpage2) | [Learn from here]()
-* *Insert node before a particular node in a doubly linked list (First, last and middle)* - [Learn from here](https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/)
-* *Remove a particular node from a doubly linked list (first, last and middle)* - [Solve here](https://practice.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1/?category[]=Linked%20List&page=2&query=category[]Linked%20Listpage2) | [Learn from here](https://www.geeksforgeeks.org/delete-a-node-in-a-doubly-linked-list/)
-* *Create, push and pop in stack  (array representation & linked list representation)* - [Learn from here](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/)
+* *Remove all the occurrences of a particular item from the list* - [Learn from here](https://www.geeksforgeeks.org/remove-all-the-occurrences-of-an-element-from-a-list-in-python/)
+* *Create a sorted linked list* - [Solve here](https://practice.geeksforgeeks.org/problems/insert-in-a-sorted-list/1) | [Learn here](https://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/)
+* *Union and Intersection of two lists* - [Solve Intersection](https://practice.geeksforgeeks.org/problems/intersection-of-two-linked-list/1) | [Solve Union](https://practice.geeksforgeeks.org/problems/union-of-two-linked-list/1) | [Learn from here](https://www.geeksforgeeks.org/union-and-intersection-of-two-linked-lists/)
+
+### Circular Linked List - [Learn here]()
+#### Problems :
+
+* *Append node in circular linked list* - [Learn from here]()
+* *Print a circular linked list* - [Learn from here]()
+* *Determine if a particular item exists in the circular linked list* - [Learn from here]()
+
+#### Doubly Linked List - [Learn here](https://www.youtube.com/playlist?list=PLCvBE7NDS5BnOGTj3Pxjsv1ehh5IUcT8X)
+#### Problems : 
+
+* *Print the doubly linked list* - [Learn from here]()
+* *Insert node after a particular node in a doubly linked list (First, last and middle)* - [Learn from here]()
+* *Insert node before a particular node in a doubly linked list (First, last and middle)* - [Learn from here]()
+* *Remove a particular node from a doubly linked list (first, last and middle)* - [Learn from here]()
+* *Create, push and pop in stack  (array representation & linked list representation)* - [Learn from here]()
+
 
 ### **Stacks** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5BngntkqmL5IlEdCmHF_b1d9)
 
