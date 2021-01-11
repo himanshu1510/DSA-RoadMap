@@ -3,6 +3,8 @@
 <img alt="CodeChef MBM" src="images/codechef-mbm.png" height="600">
 </p>
 
+### The best resource to learn DSA are the university courses from Coursera. We strongly recommend everyone to follow those courses. Use the Financial Aid feature of coursera to get those courses for free. However, some students are not comfortable with the teaching style of those courses. They may follow this roadmap.
+
 # Contents
 ## **Pointers Revision** - [Learn from here](https://www.youtube.com/playlist?list=PLhb7SOmGNUc4EBVjd7x5TiEyOKXt71whE)
 ## **Array** - [Learn from here ](https://www.geeksforgeeks.org/array-data-structure/ )
